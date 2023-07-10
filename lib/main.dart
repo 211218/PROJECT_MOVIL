@@ -1,6 +1,5 @@
 import 'package:cuartup/View/home_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:cuartup/screens/home.dart';
 import 'package:cuartup/View/account_screen.dart';
 import 'package:cuartup/View/login_screen.dart';
 import 'package:cuartup/View/register_screen.dart';
